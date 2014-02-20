@@ -1,0 +1,11 @@
+{
+  "name": "yields-empty",
+  "description": "empty an element.",
+  "version": "0.0.1",
+  "keywords": [
+    "empty"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
